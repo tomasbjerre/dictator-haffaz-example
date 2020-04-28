@@ -5,7 +5,7 @@ An example usage of [Haffaz](https://github.com/tomasbjerre/dictator-haffaz).
 Try it by running:
 
 ```bash
-18:56 $ npm install
+$ npm install
 
 > dictator-haffaz-example@0.0.1 prepare /home/bjerre/workspace/dictator/dictator-haffaz-example
 > npx haffaz@0.0.2
