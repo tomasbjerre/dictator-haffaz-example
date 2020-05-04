@@ -3,6 +3,6 @@
   "version": "0.0.1",
   "description": "Just example",
   "scripts": {
-    "prepare": "npx haffaz@0.0.18"
+    "prepare": "npx haffaz@0.0.26"
   }
 }
