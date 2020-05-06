@@ -6,6 +6,6 @@
     "prepare": "haffaz"
   },
   "dependencies": {
-    "haffaz": "0.0.30"
+    "haffaz": "0.0.31"
   }
 }
